@@ -42,7 +42,7 @@ tqdm==4.42.1
 
 ### 1. Clone the repository
 ```
-git clone https://github.com/felixkreuk/SegFeat.git
+git clone https://github.com/Thuva97/SegFeat.git
 cd SegFeat
 ```
 
